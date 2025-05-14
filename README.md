@@ -1,28 +1,76 @@
-👋 Hi, I'm Ali Ather (@ALi-ather)
-💻 Cybersecurity Engineering Student
-🎯 Passionate about cybersecurity, programming, and web application security testing.
 
-🌱 Currently learning and working on:
 
-Programming languages: Python (with a focus on hacking and automation), PHP, JavaScript.
-Database management: MySQL, with hands-on experience in building Full-Stack applications.
-Web application security: XSS, Recon techniques, and vulnerability testing using Burp Suite.
-📚 Skills and experience include:
+## 👋 About Me
 
-Proficiency in C++ (including Object-Oriented Programming).
-Web development: HTML, CSS, and JavaScript for front-end development.
-Developing small projects using Django (Python) and PHP for administrative systems.
-Cybersecurity tools and skills: Bash scripting, CMD, Recon, Subdomain Enumeration, and Web Crawling.
-📈 Achievements:
+**Ali Ather (@ALi‑ather)**
+Cybersecurity Engineering Student with a passion for penetration testing, secure coding, and web‑app security.
 
-Completed two tracks on TryHackMe.
-Actively participating in CTF challenges and applying skills in practical cybersecurity projects.
-📫 Let's connect:
+---
 
-LinkedIn: Ali Ather Nuzhat ==>https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%A7%D8%AB%D9%8A%D8%B1-%D9%86%D8%B2%D9%87%D8%AA-661b96308/
-Telegram: @Y0or1
-✨ Objective: To advance my expertise in cybersecurity, focusing on penetration testing and network security, and build a strong professional career in the field.
-<!---
-ALi-ather/ALi-ather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Professional Focus
+
+* **Penetration Testing & Vulnerability Assessment**
+
+  * Web application security (XSS, SQLi, CSRF)
+  * Reconnaissance & subdomain enumeration
+  * Exploit development & automated scanning
+
+* **Secure Development & Automation**
+
+  * Python scripting for pentesting workflows
+  * Bash & PowerShell for automation and triage
+  * PHP & JavaScript for building and securing web services
+
+* **Full‑Stack Database Integration**
+
+  * MySQL schema design, indexing, and optimization
+  * Django & PHP back‑end integration
+  * RESTful API development and secure data handling
+
+---
+
+## 💡 Technical Skills
+
+| Domain                     | Technologies & Tools                                  |
+| -------------------------- | ----------------------------------------------------- |
+| **Languages**              | Python (automation & hacking), C++, PHP, JavaScript   |
+| **Web Dev**                | HTML5, CSS3, JavaScript, Bootstrap, React (basic)     |
+| **Frameworks**             | Django, Flask, PHP (Laravel basics)                   |
+| **Databases**              | MySQL (design, queries, optimization)                 |
+| **Pentesting Tools**       | Burp Suite, Nmap, Dirbuster, Gobuster                 |
+| **Scripting & Automation** | Bash, PowerShell, custom Python scripts               |
+| **Methodologies**          | OWASP Top 10, PTES, Recon, Social Engineering tactics |
+
+---
+
+## 🏆 Achievements & Learning
+
+* **Certifications & Training**
+
+  * Completed two TryHackMe learning paths (Offensive Pentesting & Web Fundamentals)
+  * eJPT v2 in progress, focusing on Windows exploitation
+
+* **Capture The Flag (CTF)**
+
+  * Regular participant in university and online CTF challenges
+  * Developed custom scripts for automated flag retrieval
+
+* **Projects**
+
+  * **Web Scanner**: Python tool that scans for XSS and SQL injection points
+  * **Django Admin System**: Role‑based access control and audit logging in Python
+  * **MySQL Blog Platform**: CRUD operations with comment moderation
+
+---
+
+## 📫 Get In Touch
+
+* **LinkedIn:** [Ali Ather Nuzhat](https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%A7%D8%AB%D9%8A%D8%B1-%D9%86%D8%B2%D9%87%D8%AA-661b96308/)
+* **Telegram:** [@Y0or1](https://t.me/Y0or1)
+* **Email:** [ali.ather@example.com](mailto:ali.atheer@ntu.edu.iq)
+
+---
+
+## 🎯 Career Objective
+
+Advance my expertise in penetration testing and network security to become a leading cybersecurity professional—building resilient systems and safeguarding critical applications.
