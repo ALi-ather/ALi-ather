@@ -35,7 +35,7 @@ Cybersecurity Engineering Student with a passion for penetration testing, secure
 | -------------------------- | ----------------------------------------------------- |
 | **Languages**              | Python (automation & hacking), C++, PHP, JavaScript   |
 | **Web Dev**                | HTML5, CSS3, JavaScript, Bootstrap, React (basic)     |
-| **Frameworks**             | Django, Flask, PHP (Laravel basics)                   |
+| **Frameworks**             | PHP (Laravel basics)                                  |
 | **Databases**              | MySQL (design, queries, optimization)                 |
 | **Pentesting Tools**       | Burp Suite, Nmap, Dirbuster, Gobuster                 |
 | **Scripting & Automation** | Bash, PowerShell, custom Python scripts               |
@@ -67,7 +67,7 @@ Cybersecurity Engineering Student with a passion for penetration testing, secure
 
 * **LinkedIn:** [Ali Ather Nuzhat](https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%A7%D8%AB%D9%8A%D8%B1-%D9%86%D8%B2%D9%87%D8%AA-661b96308/)
 * **Telegram:** [@Y0or1](https://t.me/Y0or1)
-* **Email:** [ali.ather@example.com](mailto:ali.atheer@ntu.edu.iq)
+* **Email:** [ali.ather@ntu.edu.iq](mailto:ali.atheer@ntu.edu.iq)
 
 ---
 
