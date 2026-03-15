@@ -108,7 +108,7 @@ Mindset   : I don't memorize. I reverse-engineer the WHY and the HOW.
 | Certification | Issuer | Status |
 |---|---|---|
 | 🔴 **CAPT** — Certified Advanced Penetration Tester | Hackviser | ✅ Completed |
-| 🌐 **CWSE** — Certified Web Security Expert | Hackviser | 🔄 90% — In Progress |
+| 🌐 **CWSE** — Certified Web Security Expert | Hackviser | ✅ Completed |
 | 🧩 **CBBH** — Certified Bug Bounty Hunter | Hack The Box | 🔄 50% — In Progress |
 | 🕵️ **Foundation Level Threat Intelligence Analyst** | arcX | ✅ Completed |
 | 🌐 **Introduction to Cybersecurity** | Cisco | ✅ Completed |
