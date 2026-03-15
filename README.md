@@ -81,21 +81,9 @@ Mindset   : I don't memorize. I reverse-engineer the WHY and the HOW.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=en-cyber-ali&theme=matrix&no-frame=true&margin-w=10)](https://github.com/en-cyber-ali)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 📊 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-cyber-ali&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=en-cyber-ali&theme=dark)
 
 ### 🎯 Competitive Security Achievements
 
