@@ -81,7 +81,7 @@ Mindset   : I don't memorize. I reverse-engineer the WHY and the HOW.
 
 ---
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Mood](https://img.shields.io/badge/Mood-Hacker%20Mode-00ff41?style=for-the-badge)
 
 ---
 
