@@ -142,7 +142,7 @@ Mindset   : I don't memorize. I reverse-engineer the WHY and the HOW.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Atheer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Atheer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-661alib96308/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-en--cyber--ali-494649?style=for-the-badge&logo=hackerone&logoColor=orange)](https://hackerone.com/your-profile)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%20Iraq-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-profile)
 [![Email](https://img.shields.io/badge/Email-en.cyber.ali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en.cyber.ali@gmail.com)
